@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e1163ec.css",
+    "main.js": "/static/js/main.427a320e.js",
+    "static/js/453.ad99f80e.chunk.js": "/static/js/453.ad99f80e.chunk.js",
+    "static/media/Kalameh-Regular.ttf": "/static/media/Kalameh-Regular.deb0cad0ec6b5b231214.ttf",
+    "static/media/Khatkhati.ttf": "/static/media/Khatkhati.b7d662a2a3831b8f32dc.ttf",
+    "index.html": "/index.html",
+    "main.9e1163ec.css.map": "/static/css/main.9e1163ec.css.map",
+    "main.427a320e.js.map": "/static/js/main.427a320e.js.map",
+    "453.ad99f80e.chunk.js.map": "/static/js/453.ad99f80e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1163ec.css",
+    "static/js/main.427a320e.js"
+  ]
+}
